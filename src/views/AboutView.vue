@@ -2,7 +2,7 @@
   <div class="about">
     <div class="segment">
       <h1>About me</h1>
-      🏳️‍⚧️MtF girl in Senior High, love programming and art. <br />Girlfriend is <bold>Anemarrhena asphodeloide</bold>.
+      🏳️‍⚧️Trans girl in Senior High, love programming and art. <br />Girlfriend is <bold>Anemarrhena asphodeloide</bold>.
     </div>
   </div>
 </template>
@@ -32,7 +32,7 @@ bold {
 }
 
 .segment {
-  padding: 10px;
-  border-radius: 8px;
+  padding: 18px;
+  border-radius: 6px;
   background-color: var(--color-segment);
 }</style>
