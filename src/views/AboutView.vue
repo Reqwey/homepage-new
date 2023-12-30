@@ -2,12 +2,12 @@
   <div class="about">
     <div class="segment">
       <h1>About me</h1>
-      🏳️‍⚧️Trans girl in Senior High, love programming and art. <br />Girlfriend is <bold>Anemarrhena asphodeloide</bold>.
+      🏳️‍⚧️Trans girl in Senior Three, love maths, programming and art.
     </div>
   </div>
 </template>
 
-<style>
+<style scoped>
 .about {
   display: flex;
   flex-direction: column;
