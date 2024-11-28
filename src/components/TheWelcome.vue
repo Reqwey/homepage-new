@@ -17,11 +17,11 @@ import SupportIcon from './icons/IconSupport.vue'
     Some random notes. Not only for OI contests.
   </WelcomeItem>
 
-  <WelcomeItem link="https://gennia.io">
+  <WelcomeItem link="#">
     <template #icon>
       <CrownIcon />
     </template>
-    <template #heading>Gennia</template>
+    <template #heading>Gennia (Deprecated)</template>
 
     Yet another quick strategy online game. Protect your land and capture other's general! The GenniaBot is also awesome.
     Come and join <a href="https://github.com/GenniaApp" target="_blank" rel="noopener">GenniaApp</a> open-source developing team now!

@@ -2,7 +2,7 @@
   <div class="about">
     <div class="segment">
       <h1>About me</h1>
-      🏳️‍⚧️Trans girl in Senior Three, love maths, programming and art.
+      🏳️‍⚧️Trans girl in SJTU, majoring in clinical medicine.
     </div>
   </div>
 </template>
